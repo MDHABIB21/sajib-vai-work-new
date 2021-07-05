@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+   padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+ }
+ /*-- first and 2nd sections part start*/
+.banner-top{
+   background-image: url(img/header-bg.png);
+   background-repeat: no-repeat;
+}
+h1{
+    font-size: 30px;
+    padding-bottom: 2px;
+
+}
+h2{
+    font-size: 20px;
+    padding-bottom: 4px;
+    padding-top: 70px;
+}
+h4{
+    padding-top: 100px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 40px;
+    color:rgb(17, 16, 16);
+    font-size: large;
+}
+p{
+    color: rgb(114, 108, 103);
+
+}
+.name-color{
+    color: orange;
+}
+.half-width{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+section{
+    height: 820px;
+
+}
+.link-button{
+    background-image: linear-gradient(45deg,red, orange);
+    text-decoration: none;
+    background-color: chocolate;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: rgb(22, 19, 19);
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.half-width img{
+    width: 100%;
+
+}
+.drem-aria{
+    background-image: url(img/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.drem-aria img{
+    width: 100%;
+
+}
+
+ /*--first and 2nd sections part end*/
+
+
+ .half-dish{
+     width: 100%;
+     margin-top: 50px;
+ }
+ .half-dish{
+     background-color: rgb(235, 230, 229);
+ }
+    .text{
+        padding-bottom: 100px;
+    }
+    .drem-aria h5{
+        text-align: center;
+        text-transform: capitalize;
+        font-size: large;
+        font-weight: 700;
+    }
+.drem-aris h2{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: large;
+    font-weight: 300;
+}
+.drem-aris h6{
+    text-align: center;
+    text-transform: lowercase;
+    font-weight: 100px;
+}
+
+.drem-aris p{
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 300;
+    padding-top: 40px;
+}
+#address{
+    margin-top: 30px;
+    text-transform: capitalize;
+    background-color: salmon;
+    padding-bottom: 30px;
+    text-align: center;
+    word-spacing: 2px;
+    border-radius: 5px solid red;
+
+}
+
+
+.email{
+   margin: 0 630px;
+}
+.drem-aris{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+footer{
+height: 500px;
+}
+address h1{
+    text-align: center;
+    padding-bottom: 10px;
+
+
+}
